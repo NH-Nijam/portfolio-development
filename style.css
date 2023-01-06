@@ -8,13 +8,12 @@
 }
 .buttons{
     display: flex;
-    justify-content: space-around;
 }
 .btn-primary {
     color: #FFFFFF;
     height: 64px;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 17px;
     padding: 15px 30px;
     border-radius: 5px;
     background: #FD6E0A;
@@ -25,6 +24,7 @@
     background-color: #fff;
     color: #FD6E0A;
     margin-left: 10px;
+    border: 1px solid #FD6E0A;
 }
 .header {
     background: #FFF8F3;
